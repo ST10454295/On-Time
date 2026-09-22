@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1074973500257",
+    "firebase_url": "https://ontime-9455a-default-rtdb.firebaseio.com",
+    "project_id": "ontime-9455a",
+    "storage_bucket": "ontime-9455a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074973500257:android:35ec4762de7ecc8bfe9b20",
+        "android_client_info": {
+          "package_name": "com.ontime.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoaX6CUIP0ml5-QoSjs6OSTrYj9Z7R6_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

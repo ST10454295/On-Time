@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ontime_primary">#1B4B5A</color>
+    <color name="ontime_primary_dark">#0F3038</color>
+    <color name="ontime_accent">#FF7A45</color>
+
+    <color name="ontime_white">#FFFFFFFF</color>
+    <color name="ontime_off_white">#F4F7F8</color>
+    <color name="ontime_text_dark">#1A1A1A</color>
+
+    <!-- Importance levels, ready for Part 2 -->
+    <color name="importance_high">#E53935</color>
+    <color name="importance_medium">#FB8C00</color>
+    <color name="importance_low">#43A047</color>
+</resources>

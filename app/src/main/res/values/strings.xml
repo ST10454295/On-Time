@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">On-Time</string>
+    <string name="splash_tagline">Your time. Your priorities.</string>
+
+    <string name="home_greeting">Hi, %1$s</string>
+    <string name="home_greeting_fallback">Hi there</string>
+    <string name="home_message">Login, Register and Settings are connected to your hosted On-Time database.\n\nAdd Activity, the conflict system and the Calendar are built next.</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="login_title">Welcome back</string>
+    <string name="login_subtitle">Log in to keep track of your schedule.</string>
+    <string name="register_title">Create an account</string>
+    <string name="register_subtitle">Set up On-Time to start managing your time.</string>
+
+    <string name="hint_full_name">Full name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm password</string>
+
+    <string name="action_login">Log In</string>
+    <string name="action_register">Create Account</string>
+    <string name="prompt_go_register">Don\'t have an account? Register</string>
+    <string name="prompt_go_login">Already have an account? Log In</string>
+    <string name="loading">Please wait…</string>
+
+    <string name="error_fill_all_fields">Please fill in all fields.</string>
+    <string name="error_invalid_email">Please enter a valid email address.</string>
+    <string name="error_password_too_short">Password must be at least 6 characters.</string>
+    <string name="error_passwords_dont_match">Passwords do not match.</string>
+    <string name="error_email_taken">An account with this email already exists.</string>
+    <string name="error_invalid_login">Incorrect email or password.</string>
+    <string name="success_registered">Account created. You can log in now.</string>
+    <string name="action_logout">Log Out</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_default_duration_label">Default activity duration</string>
+    <string name="settings_minutes_hint">Minutes</string>
+    <string name="settings_theme_label">Theme</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_invalid_duration">Please enter a duration greater than 0.</string>
+    <string name="settings_saved">Saved to your account.</string>
+    <string name="settings_save_failed">Couldn\'t save — check your connection and try again.</string>
+    <string name="action_save">Save</string>
+</resources>
