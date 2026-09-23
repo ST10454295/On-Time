@@ -43,4 +43,21 @@
     <string name="settings_saved">Saved to your account.</string>
     <string name="settings_save_failed">Couldn\'t save — check your connection and try again.</string>
     <string name="action_save">Save</string>
+    <string name="add_activity_title">Add Activity</string>
+    <string name="hint_activity_title">Title</string>
+    <string name="hint_activity_description">Description</string>
+    <string name="label_activity_type">Type</string>
+    <string name="hint_activity_date">Date</string>
+    <string name="hint_start_time">Start time</string>
+    <string name="hint_end_time">End time</string>
+    <string name="label_importance">Importance</string>
+    <string name="label_your_activities">Your activities</string>
+    <string name="action_save_activity">Save Activity</string>
+    <string name="error_invalid_time_range">End time must be after start time.</string>
+    <string name="error_network">Couldn\'t reach the server — check your connection and try again.</string>
+    <string name="conflict_title">Schedule conflict</string>
+    <string name="conflict_message">This overlaps with an existing %1$s importance activity. Save anyway?</string>
+    <string name="conflict_keep_anyway">Save Anyway</string>
+    <string name="conflict_change_time">Change Time</string>
+    <string name="action_add_activity">Add Activity</string>
 </resources>

@@ -32,16 +32,26 @@
         app:layout_constraintTop_toBottomOf="@id/textGreeting" />
 
     <com.google.android.material.button.MaterialButton
-        android:id="@+id/buttonSettings"
+        android:id="@+id/buttonAddActivity"
         android:layout_width="0dp"
         android:layout_height="52dp"
         android:layout_marginTop="28dp"
         android:backgroundTint="#FF8FA3"
-        android:text="SETTINGS"
-        android:textColor="#FFFFFF"
+        android:text="@string/action_add_activity"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/textMessage" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/buttonSettings"
+        android:layout_width="0dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="12dp"
+        android:backgroundTint="#FF8FA3"
+        android:text="@string/action_settings"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/buttonAddActivity" />
 
     <com.google.android.material.button.MaterialButton
         android:id="@+id/buttonLogout"

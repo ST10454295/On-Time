@@ -7,7 +7,7 @@ import com.google.firebase.auth.FirebaseAuth
 import com.ontime.app.auth.LoginActivity
 import com.ontime.app.databinding.ActivityHomeBinding
 import com.ontime.app.settings.SettingsActivity
-
+import com.ontime.app.activities.AddActivityActivity
 /**
  * Temporary landing screen shown after a successful login (Screen 4,
  * Dashboard, replaces this once it's built). Links to Settings so the
@@ -29,6 +29,9 @@ class HomeActivity : AppCompatActivity() {
             }
         }
 
+        binding.buttonAddActivity.setOnClickListener {
+            startActivity(Intent(this, AddActivityActivity::class.java))
+        }
         binding.buttonSettings.setOnClickListener {
             startActivity(Intent(this, SettingsActivity::class.java))
         }
