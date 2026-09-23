@@ -31,9 +31,11 @@ XAMPP and hosted on InfinityFree. considering the time available for this
 submission and challenges i had encountered, I implemented the REST-API-to-hosted-database requirement
 using Firebase's REST endpoints  instead of building and
 hosting a custom PHP API. This still satisfies the technical
-requirement — the app makes RESTful HTTPS calls to a database hosted
-outside the device — while being realistic to build, test and debug
+requirement  the app makes RESTful HTTPS calls to a database hosted
+outside the device  while being realistic to build, test and debug
 in the time available. 
+
+the prototype i had created , had a different colour from this one. i had a change of mind with the the colours, which might also change in part 3 .
 
 
 ## Still to build (deferred, will be included in part 3)
@@ -43,9 +45,9 @@ in the time available.
   document, so it's intentionally not here yet)
 - Dashboard (Screen 4) and Calendar (Screen 7) — Home is currently a
   simple placeholder linking to Add Activity and Settings
-- SSO, offline mode/synchronisation, and isiZulu/isiXhosa support —
+- SSO, offline mode/synchronisation, and isiZulu/isiXhosa support 
   all explicitly scoped for the final PoE in the planning document
-
+  
 
 ## Testing
  no conflict when activities don't
